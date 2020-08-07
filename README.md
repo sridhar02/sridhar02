@@ -12,3 +12,8 @@
 ⭐️ From [sridhar02](https://github.com/sridhar02)
 
 <img src="https://github-readme-stats.vercel.app/api?username=sridhar02&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
+
+## Latest Blog Posts
+<!-- HASHNODE:START -->
+
+<!-- HASHNODE:END -->
