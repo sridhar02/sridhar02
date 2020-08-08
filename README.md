@@ -15,5 +15,8 @@
 
 ## Latest Blog Posts
 <!-- HASHNODE:START -->
+- [Setting up SSH for Github in Linux](https://dev.to/sridhar02/setting-up-ssh-for-github-in-linux-40p7)
 - [How to setup SSH for Github in Linux?](https://sridhar02.hashnode.dev/how-to-setup-ssh-for-github-in-linux-ckdjn0dfm01wuz2s19rxs78th)
+- [Best React Tutorial  ](https://dev.to/sridhar02/best-react-tutorial-2mm2)
+- [My personal portfolio site. Some feeback / tips?](https://dev.to/sridhar02/my-personal-portfolio-site-some-feeback-tips-h5n)
 <!-- HASHNODE:END -->
