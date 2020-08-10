@@ -15,9 +15,6 @@
 
 ## Latest Blog Posts
 <!-- HASHNODE:START -->
-- [From Petroleum Engineering to Software Eng?](https://dev.to/sridhar02/from-petroleum-engineering-to-software-eng-4ol5)
 - [From Petroleum Engineering to Software Eng?](https://sridhar02.hashnode.dev/from-petroleum-engineering-to-software-eng-ckdom6fo40062l9s13cor9woc)
-- [Setting up SSH for Github in Linux](https://dev.to/sridhar02/setting-up-ssh-for-github-in-linux-40p7)
 - [How to setup SSH for Github in Linux?](https://sridhar02.hashnode.dev/how-to-setup-ssh-for-github-in-linux-ckdjn0dfm01wuz2s19rxs78th)
-- [Best React Tutorial  ](https://dev.to/sridhar02/best-react-tutorial-2mm2)
 <!-- HASHNODE:END -->
