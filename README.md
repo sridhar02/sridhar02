@@ -15,6 +15,7 @@
 
 ## Latest Blog Posts
 <!-- HASHNODE:START -->
+- [Some of the famous Podcasts in Tech?](https://sridhar02.hashnode.dev/some-of-the-famous-podcasts-in-tech-cke1o2b0n004ghqs1ho45dox6)
 - [Some Commonly used React Patterns?](https://sridhar02.hashnode.dev/some-commonly-used-react-patterns-ckdwid2zz02ibids1b71e8yh2)
 - [From Petroleum Engineering to Software Eng?](https://sridhar02.hashnode.dev/from-petroleum-engineering-to-software-eng-ckdom6fo40062l9s13cor9woc)
 - [How to setup SSH for Github in Linux?](https://sridhar02.hashnode.dev/how-to-setup-ssh-for-github-in-linux-ckdjn0dfm01wuz2s19rxs78th)
