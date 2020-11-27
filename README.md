@@ -15,9 +15,9 @@
 
 ## Latest Blog Posts
 <!-- HASHNODE:START -->
-- [Introduction to Ionic-react?](https://sridhar02.hashnode.dev/introduction-to-ionic-react-ckhc99bpc00vnb7s10kd0h2rh)
 - [What is clamp function in CSS?](https://sridhar02.hashnode.dev/what-is-clamp-function-in-css-ckga9frsc025yt9s1enwqfejn)
 - [What is Mixed content block and how can we create a proxy server?](https://sridhar02.hashnode.dev/what-is-mixed-content-block-and-how-can-we-create-a-proxy-server-ckf8eyivz01icu5s17gv4832j)
 - [How to setup the Integration of LinkedIn API with OAuth?](https://sridhar02.hashnode.dev/how-to-setup-the-integration-of-linkedin-api-with-oauth-ckerw3wdo00uz8ps1h2mj61g7)
 - [Some of the famous Podcasts in Tech?](https://sridhar02.hashnode.dev/some-of-the-famous-podcasts-in-tech-cke1o2b0n004ghqs1ho45dox6)
+- [Some Commonly used React Patterns?](https://sridhar02.hashnode.dev/some-commonly-used-react-patterns-ckdwid2zz02ibids1b71e8yh2)
 <!-- HASHNODE:END -->
