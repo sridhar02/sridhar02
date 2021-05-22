@@ -21,3 +21,5 @@
 - [How to setup the Integration of LinkedIn API with OAuth?](https://sridhar02.hashnode.dev/how-to-setup-the-integration-of-linkedin-api-with-oauth-ckerw3wdo00uz8ps1h2mj61g7)
 - [Some of the famous Podcasts in Tech?](https://sridhar02.hashnode.dev/some-of-the-famous-podcasts-in-tech-cke1o2b0n004ghqs1ho45dox6)
 <!-- HASHNODE:END -->
+
+![Visitor Count](https://profile-counter.glitch.me/sridhar02/count.svg)
