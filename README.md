@@ -6,7 +6,7 @@
 
 - Front-end development using **HTML, Javascript,CSS,JS,React JS,Graphql**
 - Backend development using **Node Js and Golang**
-- Portfolio site: [Portfolio](https://sridharkatta.now.sh/)
+- Portfolio site: [Portfolio](https://ksridhar.dev/)
 
 ---
 ⭐️ From [sridhar02](https://github.com/sridhar02)
